@@ -640,7 +640,7 @@ select {
     transform: translateY(-6px);
 }
 
-.offer-blue {
+.offer-blue{
     background: linear-gradient(135deg, #0758a5, #087fc1);
 }
 
