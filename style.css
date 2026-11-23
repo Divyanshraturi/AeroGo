@@ -563,6 +563,25 @@ select {
     );
 }
 
+.san-francisco {
+    background-image: url(
+        "https://media.istockphoto.com/id/1032660218/photo/golden-gate-strait.jpg?s=612x612&w=0&k=20&c=kpLvuYUuZlY_jC--9e6kqlYoIJI_mwCKlmMT2u9lVUs="
+    );
+}
+
+.France {
+    background-image: url(
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWseVAZbR-gPtg0A-vzpitqKtbD_svu6qeHQv9_M5eA&s=10"
+    );
+}
+.maldives{
+    background-image: url(
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQKwjBhmX_B-WwnJbRb8-WhP2byMGcR8KzdmVOHCj6riECuH8AIKqet1Is&s=10"
+    );
+}
+
+
+
 .destination-info {
     position: relative;
     z-index: 1;
@@ -667,7 +686,7 @@ select {
     background:
         linear-gradient(90deg, rgba(4, 28, 67, 0.96),
         rgba(4, 28, 67, 0.8)),
-        url("https://images.unsplash.com/photo-1474302770737-173ee21bab63?w=1600")
+        url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4kPzm_VE6_Pox5EqrJVBh-4e4ce15x57cTi_aV9UFg&s=10")
         center/cover;
     color: var(--white);
     padding: 75px 0;
